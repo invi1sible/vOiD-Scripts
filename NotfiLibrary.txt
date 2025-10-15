@@ -297,3 +297,5 @@ function Notflib.Send(titl, txt, del, col, txxcol, si, form, so)
     notf(data)
   end
 end
+
+return Notflib
